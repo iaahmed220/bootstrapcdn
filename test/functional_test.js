@@ -34,6 +34,7 @@ const expectedHeaders = {
     'timing-allow-origin': '*',
     'vary': 'Accept-Encoding',
     'x-cache': '',
+    'x-content-type-options': 'nosniff',
     'x-hello-human': 'Say hello back! @getBootstrapCDN on Twitter',
     'x-hw': undefined
 };
